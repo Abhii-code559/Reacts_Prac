@@ -1,0 +1,91 @@
+/* .container {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.card {
+  width: 420px;
+  border: 2px solid #ccefff;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+
+}
+
+.profile-img {
+  width: 150px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.role {
+  background: blue;
+  color: white;
+  display: inline-block;
+  padding: 5px 12px;
+  margin-top: 10px;
+}
+
+.card p {
+  color: gray;
+} */
+
+.container {
+  width: 750px;
+  margin: 50px auto;
+  border: 2px solid gray;
+  padding: 20px;
+  background: white;
+  border: 1px solid black;
+}
+
+.row {
+  display: flex;
+}
+
+.box {
+  height: 90px;
+  border: 1px solid gray;
+}
+
+/* First Row */
+.red {
+  width: 100%;
+  background: #ff6b6b;
+}
+
+/* Second Row */
+.yellow {
+  width: 55%;
+  background: #f9f871;
+}
+
+.cyan {
+  width: 45%;
+  background: #8ef6f6;
+}
+
+/* Third Row */
+.orange {
+  width: 30%;
+  background: #ffb347;
+}
+
+.blue {
+  width: 28%;
+  background: #4da6ff;
+}
+
+.lightorange {
+  width: 27%;
+  background: #f4b266;
+}
+
+.pink {
+  width: 15%;
+  background: #ff99ff;
+}

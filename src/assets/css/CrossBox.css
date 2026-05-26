@@ -1,0 +1,71 @@
+.main{
+  width: 700px;
+  margin: 50px auto;
+  padding: 30px;
+  border: 1px solid gray;
+  background: #eef5f7;
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+}
+
+.box{
+  width: 100px;
+  height: 70px;
+  border: 1px solid gray;
+}
+
+/* Colors */
+.red{
+  background: #ff6b6b;
+}
+
+.dark{
+  background: #4b5563;
+}
+
+.gray{
+  background: #7c8b95;
+}
+
+.orange{
+  background: #ffb347;
+}
+
+.green{
+  background: #7CFC00;
+}
+
+.pink{
+  background: #ff7f7f;
+}
+
+.cyan{
+  background: #7fffd4;
+}
+
+.blue{
+  background: #1e90ff;
+}
+
+.darkgreen{
+  background: #5f7f73;
+}
+
+.lightpink{
+  background: #ffb6ff;
+}
+
+.brown{
+  background: #c9a27e;
+}
+
+.purple{
+  background: #7b6d8d;
+}
+
+.white{
+  background: #f5f5f5;
+}
